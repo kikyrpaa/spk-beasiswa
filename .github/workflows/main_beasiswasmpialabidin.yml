@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'beasiswasmpialabidin'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B1A1E6CDF5224740981B451284C2E374 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7741E0DB581D4479A3F7DA29C00803C5 }}
           package: .
